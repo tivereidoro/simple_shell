@@ -1,3 +1,4 @@
-!# ALX Pair Project 
+## ALX SOFTWARE ENGINEERING Pair-Programming Project 
 
+### BUILDING A SIMPLE SHELL
 ..
